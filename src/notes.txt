@@ -1,3 +1,0 @@
-@mixin regularTextOS - mixin for regular text in "Open Sans" font;
-
-
